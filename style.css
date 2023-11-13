@@ -1,0 +1,145 @@
+body{
+    background-color: hsl(216, 12%, 8%);
+}
+.upper{
+    font-size:  25px;
+    font-weight: 500;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:hsl(0, 0%, 100%);
+}
+.whole{
+    border: 2px solid  hsl(213, 19%, 18%);
+    border-radius: 25px ;
+    background-color:  hsl(213, 19%, 18%);
+    width: 400px;
+    height: 300px;
+    text-align: justify;
+     padding-left:40px ;
+     padding-top: 50px;
+     position: relative;
+     left: 300px;
+     top: 100px;
+}
+p{
+    color: hsl(216, 12%, 54%);
+}
+.no{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+.no11{
+    border-radius: 25px;
+    border: 2px solid hsl(210, 6%, 14%);
+    width: 40px;
+    height: 40px;
+    background-color:hsl(210, 6%, 14%); 
+    cursor: pointer;
+    
+}
+.no11:hover{
+    background-color:hsl(216, 12%, 54%) ;
+}
+.no1{
+  
+    position: relative;
+    left: 15px;
+    top: 10px;
+    color: hsl(0, 0%, 100%);
+ 
+}
+.no22{
+    border-radius: 50px;
+    border: 2px solid hsl(210, 6%, 14%);
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 20px;
+    background-color:hsl(210, 6%, 14%); 
+    cursor: pointer;
+ 
+}
+.no22:hover{
+    background-color:hsl(216, 12%, 54%) ;
+}
+.no2{
+    position: relative;
+    left: 15px;
+    top: 10px;
+    color: hsl(0, 0%, 100%);
+ 
+}
+.no33{
+    border-radius: 50px;
+    border: 2px solid hsl(210, 6%, 14%);
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 40px;
+    background-color:hsl(210, 6%, 14%);
+    cursor: pointer; 
+ 
+}
+.no33:hover{
+    background-color:hsl(216, 12%, 54%) ;
+}
+.no3{
+    position: relative;
+    left: 15px;
+    top: 10px;
+    color: hsl(0, 0%, 100%);
+}
+.no44{
+    border-radius: 50px;
+    border: 2px solid hsl(210, 6%, 14%);
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 60px;
+    background-color:hsl(210, 6%, 14%); 
+    cursor: pointer;
+ 
+}
+.no44:hover{
+    background-color:hsl(216, 12%, 54%) ;
+}
+.no4{
+    position: relative;
+    left: 15px;
+    top: 10px;
+    color: hsl(0, 0%, 100%);
+ 
+}
+.no55{
+    border-radius: 50px;
+    border: 2px solid hsl(210, 6%, 14%);
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 80px;
+    background-color:hsl(210, 6%, 14%); 
+    cursor: pointer;
+ 
+}
+.no55:hover{
+    background-color:hsl(216, 12%, 54%) ;
+}
+.no5{
+    position: relative;
+    left: 15px;
+    top: 10px;
+    color: hsl(0, 0%, 100%);
+}
+button{
+    border-radius: 25px;
+    border: 1px solid hsl(210, 6%, 14%);
+    width: 300px;
+    height: 40px;
+    position: relative;
+    top: 25px;
+    background-color:hsl(210, 6%, 14%) ;
+    cursor: pointer;
+}
+button:hover{
+    background-color: hsl(0, 0%, 100%) ;
+}
